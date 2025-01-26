@@ -50,10 +50,6 @@ The Netflix Tableau Dashboard provides:
 
 Contributions are welcome! If you have suggestions for improving the dashboard or additional features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 For any inquiries or feedback, please contact [marahmanbd1991@gmail.com].
